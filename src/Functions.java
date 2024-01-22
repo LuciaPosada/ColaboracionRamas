@@ -1,5 +1,6 @@
 public class Functions {
-    //Pa' que luego digais que hago las cosas mal 
+    //Pa' que luego digais que hago las cosas mal
+    //
 
     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣶⠶⠶⠟⠻⠛⠻⠿⠿⠿⠿⠿⢛⠛⠒⠓⠒⠶⣄⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠞⠛⠓⣢⣴⣆⠒⡒⠀⠂⠀⠀⡄⠀⠀⠰⢦⣌⣁⠢⠀⠀⠈⠻⣆⠀⠀⠀⠀⠀
